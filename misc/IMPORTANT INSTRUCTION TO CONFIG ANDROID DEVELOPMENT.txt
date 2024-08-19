@@ -1,0 +1,1 @@
+You must Install JDK 14 in order to run this project on Android

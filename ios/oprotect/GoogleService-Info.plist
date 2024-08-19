@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>268002081242-nec7q9adf6da33j1e5pq03bgq2onc7s1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.268002081242-nec7q9adf6da33j1e5pq03bgq2onc7s1</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>268002081242-m1bh2fcifglmtpopas09s61v60bid06u.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB8bCJiOqod3K9Ec8Vj_EUe9GgIH8iVQlQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>268002081242</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>rn.beaconwatcher.oprotect</string>
+	<key>PROJECT_ID</key>
+	<string>oprotect-b0f2e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>oprotect-b0f2e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:268002081242:ios:91f236951763a23647a8e3</string>
+	<key>DATABASE_URL</key>
+	<string>https://oprotect-b0f2e.firebaseio.com</string>
+</dict>
+</plist>

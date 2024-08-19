@@ -1,0 +1,1 @@
+F:\Softwares\AndroidStudio\AndroidStudioLatest\sdk\emulator\emulator -avd FirstDevice

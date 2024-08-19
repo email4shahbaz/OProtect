@@ -1,0 +1,9 @@
+you should go to project directory on terminal and run that command
+
+1 - mkdir android/app/src/main/assets
+2 - react-native bundle --platform android --dev false --entry-file index.js --bundle-output android/app/src/main/assets/index.android.bundle --assets-dest android/app/src/main/res
+if under 0.49
+
+  1 - mkdir android/app/src/main/assets
+  2 - react-native bundle --platform android --dev false --entry-file index.android.js --bundle-output android/app/src/main/assets/index.android.bundle --assets-dest android/app/src/main/res
+Then Use android studio to open the 'android' folder in you react native app directory, it will ask to upgrade gradle and some other stuff. go to build-> Generate signed APK and follow the instructions from there. That ok
